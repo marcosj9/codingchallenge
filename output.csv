@@ -1,0 +1,4 @@
+image1,image2,similar,elapsed
+img1.jpg,img2.jpg,0.213703,0.07
+img2.jpg,img1.jpg,0.176894,0.07
+img1.jpg,img1.png,0.00163152,0.06
